@@ -2,7 +2,7 @@
 >En este repositorio, se encuentra tres ejemplos de servidores escritos usando NodeJs, comunicandose con el browser atravez de web sockets.
 
 ## Código fuente:
-Todas estos códigos se encuentran comprimidas en formato .rar.
+Todas estos códigos se encuentran comprimidos en formato .rar.
 
 ```sh
 Pasos para instalación, ejecutar desde una consola.
