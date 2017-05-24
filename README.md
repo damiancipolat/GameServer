@@ -9,6 +9,7 @@ Pasos para instalación, ejecutar desde una consola.
 $ npm install
 ```
 Lista de cada servidor y su detalle:
+
 | Pic | App | Info. |
 | ------ | ------ | ------ |
 
